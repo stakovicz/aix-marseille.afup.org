@@ -26,7 +26,9 @@ Côté présentation, <a href="https://twitter.com/timbarray" target="_blank" re
    description="Timothée Barray de retour du ForumPHP"
 %}
 
-<iframe src="https://slides.com/tyx/la-cuillere-n-existe-pas-2/embed" width="100%" height="500" scrolling="yes" frameborder="0"></iframe>
+{% include widgets/slides.com.html
+   url="https://slides.com/tyx/la-cuillere-n-existe-pas-2/embed"
+%}
 
 Que vous pouvez revoir en version longue sur <a href="https://www.youtube.com/watch?v=X9PAXK8DjFQ" target="_blank" rel="noopener noreferrer">le youtube de l&rsquo;afup</a>
 

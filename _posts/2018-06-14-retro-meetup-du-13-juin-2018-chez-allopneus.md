@@ -19,14 +19,18 @@ Pour les absents ou ceux qui voulaient se repasser les présentation de la soir�
 
 Par Romain Camp
 
-<iframe width="584" height="329" src="https://www.youtube.com/embed/QkGnHwZz8h4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include widgets/youtube.html
+   id="QkGnHwZz8h4"
+%}
 
-
-<iframe src="//speakerdeck.com/player/aeddc227796f4ad0856c67f96ec8134b" width="584" height="438" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+{% include widgets/speakerdeck.html
+   id="aeddc227796f4ad0856c67f96ec8134b"
+%}
 
 ## Attention chérie ça va couper
 
 Par [Timothée Barray](http://twitter.com/timbarray)
 
-<iframe width="584" height="329" src="https://www.youtube.com/embed/SaJi__T_a8s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include widgets/youtube.html
+   id="SaJi__T_a8s"
+%}

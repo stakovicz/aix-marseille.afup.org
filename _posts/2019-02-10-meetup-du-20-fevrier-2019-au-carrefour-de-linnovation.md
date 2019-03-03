@@ -34,7 +34,7 @@ Et nous sommes ravi d’accueillir un grand nom de la scène PHP francophone :
 Multi conférencier aux évènements de l&rsquo;Afup depuis <a href="https://afup.org/pages/forumphp2005/conferenciers.php?#dseguy" target="_blank" rel="noopener noreferrer">un bon paquet d&rsquo;années</a> dont il est l&rsquo;un des membres fondateurs en 2001&#8230;
 
 
-{% include image_with_caption.html
+{% include widgets/image_with_caption.html
    url="https://pbs.twimg.com/media/DyqZCExWsAEm7E0.jpg:large"
    description="Une photo de famille de Damien"
 %}
