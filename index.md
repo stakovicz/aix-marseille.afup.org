@@ -1,6 +1,7 @@
 ---
 layout: page
 active: archive
+has_left_logo: true
 ---
 
   <style>
