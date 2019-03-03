@@ -24,3 +24,7 @@ Pour ceux qui voudront suivre sur leur ordinateur merci de vous préparer avec l
 Pensez à vous inscrire sur le **<a href="http://www.meetup.com/fr/Marseille-PHP-User-Group/events/225367010" target="_blank">Meetup</a>**
 
 Bonne rentrée à tous !
+
+{% include widgets/meetup.html
+   url="http://www.meetup.com/fr/Marseille-PHP-User-Group/events/225367010"
+%}

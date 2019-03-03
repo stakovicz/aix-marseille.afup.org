@@ -9,7 +9,8 @@ permalink: /2015/05/23/aperophp-presentation-drupal-8/
 categories:
   - AperoPHP
 ---
-[<img class="  wp-image-36 alignleft" src="https://aix-marseille.afup.org/files/2015/05/drupal-8-logo-isolated-CMYK-72-265x300.png" alt="drupal 8 logo isolated CMYK 72" width="116" height="131" srcset="https://aix-marseille.afup.org/files/2015/05/drupal-8-logo-isolated-CMYK-72-265x300.png 265w, https://aix-marseille.afup.org/files/2015/05/drupal-8-logo-isolated-CMYK-72.png 296w" sizes="(max-width: 116px) 100vw, 116px" />](https://aix-marseille.afup.org/files/2015/05/drupal-8-logo-isolated-CMYK-72.png)   [Guillaume](https://twitter.com/Bes_fr) de l&rsquo;asso Drupal France viendra nous présenter Drupal 8 et nous parler un peu de DDD lors de la prochaine réunion du mercredi 27 Mai.
+
+![Drupal](/files/2015/05/drupal-8-logo-isolated-CMYK-72-265x300.png)
 
 Ça se passera, comme d&rsquo;habitude, à la Bo[a]te avec le même fonctionnement &laquo;&nbsp;BYOB&nbsp;&raquo; ( bring our own beer ) : chacun apporte de quoi boire et grignoter puis nous commanderons des pizzas !
 

@@ -19,4 +19,6 @@ Aujourd&rsquo;hui tous le monde est passé sur Google Analytics et leur confie &
 
 Venez nous rejoindre pour cet apéros PHP en mode BYOB (Bring Your Own Beer) et prévoir 5€ en monnaie pour la commande de pizza.
 
-Plus d&rsquo;information et inscription sur le <a href="http://www.meetup.com/fr/Marseille-PHP-User-Group/events/223577062/" target="_blank">Meetup</a> !
+{% include widgets/meetup.html
+   url="http://www.meetup.com/fr/Marseille-PHP-User-Group/events/223577062/"
+%}

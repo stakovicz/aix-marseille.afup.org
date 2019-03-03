@@ -16,6 +16,8 @@ Et pour cette première réunion de l&rsquo;année nous vous proposons un format
 Nous chercherons à vous proposer cette année des nouveaux intervenants, des nouveaux lieux et des réunions communes avec d&rsquo;autre communautées. Des objectifs qu&rsquo;on vous présentera à cette réunion.  
 Je vous présenterais également le dossier de candidatures qu&rsquo;il faut déposer pour organiser pourquoi pas le PHP Tour à Aix-Marseille pour 2018. 2017 étant déjà voté et remporté par l&rsquo;antenne de Nantes.
 
-Ca prend 3 secondes pour voter : <https://framadate.org/26C9IADb1z7rZ2Dn>
+Ca prend 3 secondes pour [voter](https://framadate.org/26C9IADb1z7rZ2Dn).
 
-Pour s&rsquo;inscrire gratuitement à l&rsquo;apéros PHP Marseille : <a href="http://www.meetup.com/fr-FR/Marseille-PHP-User-Group/events/228341366/" target="_blank">http://www.meetup.com/fr-FR/Marseille-PHP-User-Group/events/228341366/</a>
+{% include widgets/meetup.html
+   url="http://www.meetup.com/fr-FR/Marseille-PHP-User-Group/events/228341366/"
+%}

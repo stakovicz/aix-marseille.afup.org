@@ -15,8 +15,10 @@ En ce jeudi 9 mars, l&rsquo;AFUP synchronise les montres des antennes AFUP sur l
 
 Dès 19h on se retrouve autour d&rsquo;un verre au Black Stone Pub, pas loin du stade Vélodrome. Proche des transport en commun, à la sortie du Tunnel Prado et il y&rsquo;a pas de soucis pour se garer devant.
 
-On pourra également partager pour ceux qui ont une petite faim un plateau mixte charcuterie / fromage ou un burger. (<https://www.lafourchette.com/restaurant/black-stone/57156>)
+On pourra également partager pour ceux qui ont une petite faim [un plateau mixte charcuterie / fromage ou un burger](https://www.lafourchette.com/restaurant/black-stone/57156).
 
 La mission du soir sera également de définir le prochain sujet de conférence tous ensemble 🙂
 
-Inscription : https://www.meetup.com/fr-FR/Marseille-PHP-User-Group/events/237872139/
+{% include widgets/meetup.html
+   url="https://www.meetup.com/fr-FR/Marseille-PHP-User-Group/events/237872139/"
+%}

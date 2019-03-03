@@ -10,7 +10,8 @@ image: /files/2015/03/Capture-d’écran-2015-04-18-à-12.04.22.png
 categories:
   - Atelier
 ---
-[<img class=" size-full wp-image-25 alignleft" src="https://aix-marseille.afup.org/files/2015/03/Capture-d’écran-2015-04-18-à-12.04.22.png" alt="Capture d’écran 2015-04-18 à 12.04.22" width="207" height="159" />](https://aix-marseille.afup.org/files/2015/03/Capture-d’écran-2015-04-18-à-12.04.22.png)Bonjour tout le monde,
+
+![Blackfire logo](/files/2015/03/Capture-d’écran-2015-04-18-à-12.04.22.png)
 
 Suite au sondage de la semaine dernière pour l&rsquo;organisation d&rsquo;un atelier Blackfire par SensioLabs, j&rsquo;ai le plaisir de vous confirmer cet événement pour le vendredi 17 Avril à la Bo[a]te.
 
@@ -21,3 +22,7 @@ Attention, les places sont limitées, <a href="http://www.meetup.com/Marseille-P
 Concernant les boissons, il nous reste assez de la dernière réunion, il n&rsquo;y a donc pas besoin d&rsquo;amener quoi que ce soit. Pensez juste à prendre un peu de liquide pour commander des pizzas.
 
 Bonne semaine à toutes et à tous !
+
+{% include widgets/meetup.html
+   url="https://www.meetup.com/Marseille-PHP-User-Group/events/221151322/"
+%}
