@@ -39,4 +39,6 @@ Il nous parlera du &laquo;&nbsp;**Top 10 des chausses-trappe en PHP**&nbsp;&raqu
 
 ## Inscription
 
-Comme d&rsquo;habitude c&rsquo;est sur meetup que ce ça se passe <a href="https://www.meetup.com/fr-FR/afup-aix-marseille-php/events/258764482/" target="_blank" rel="noopener noreferrer">pour vous inscrire</a>
+Comme d&rsquo;habitude c&rsquo;est sur meetup que ce ça se passe <a href="https://www.meetup.com/fr-FR/afup-aix-marseille-php/events/258764482/" target="_blank" rel="noopener noreferrer">pour vous inscrire</a>.
+
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/afup-aix-marseille-php/events/258764482/" %}
