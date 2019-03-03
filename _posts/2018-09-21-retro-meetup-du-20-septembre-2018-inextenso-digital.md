@@ -19,5 +19,4 @@ Du coup au menu, après un lightning talk de <a href="https://twitter.com/sebast
 
 Malheureusement pas de captation vidéo cette fois là (d&rsquo;où l&rsquo;intérêt de venir sur place :D)
 
-Les slides:  
-<!-- iframe plugin v.4.3 wordpress.org/plugins/iframe/ -->
+<iframe src="https://slides.com/samffy/graphql-symfony/embed" width="100%" height="500" scrolling="yes" frameborder="0"></iframe>
