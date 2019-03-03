@@ -26,12 +26,18 @@ L&rsquo;adresse : 100 Rue des Boeufs 13100 Aix-en-Provence
 Et nous sommes ravi d’accueillir un grand nom de la scène PHP francophone :  
 **<a href="https://twitter.com/faguo" target="_blank" rel="noopener noreferrer">Damien Seguy</a>**.
 
-{% include image_with_caption.html url="/files/2019/02/d4e0dc0be265de26e3f356271d1740e3.jpg" description="© Julien Pauli &#8211; Forum PHP 2018" %}
+{% include widgets/image_with_caption.html
+   url="/files/2019/02/d4e0dc0be265de26e3f356271d1740e3.jpg"
+   description="© Julien Pauli &#8211; Forum PHP 2018"
+%}
 
 Multi conférencier aux évènements de l&rsquo;Afup depuis <a href="https://afup.org/pages/forumphp2005/conferenciers.php?#dseguy" target="_blank" rel="noopener noreferrer">un bon paquet d&rsquo;années</a> dont il est l&rsquo;un des membres fondateurs en 2001&#8230;
 
 
-{% include image_with_caption.html url="https://pbs.twimg.com/media/DyqZCExWsAEm7E0.jpg:large" description="Une photo de famille de Damien" %}
+{% include image_with_caption.html
+   url="https://pbs.twimg.com/media/DyqZCExWsAEm7E0.jpg:large"
+   description="Une photo de famille de Damien"
+%}
 
 Il est entre autre également, un des auteurs du best seller : Sécurité PHP5 et MySQL. Et l&rsquo;instigateur de votre peluche préférée&#8230;
 
@@ -41,4 +47,6 @@ Il nous parlera du &laquo;&nbsp;**Top 10 des chausses-trappe en PHP**&nbsp;&raqu
 
 Comme d&rsquo;habitude c&rsquo;est sur meetup que ce ça se passe <a href="https://www.meetup.com/fr-FR/afup-aix-marseille-php/events/258764482/" target="_blank" rel="noopener noreferrer">pour vous inscrire</a>.
 
-{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/afup-aix-marseille-php/events/258764482/" %}
+{% include widgets/meetup.html
+   url="https://www.meetup.com/fr-FR/afup-aix-marseille-php/events/258764482/"
+%}
