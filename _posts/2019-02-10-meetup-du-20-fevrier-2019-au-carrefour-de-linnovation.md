@@ -19,30 +19,19 @@ Nous vous accueillerons sur Aix (pour changer je sais, mais il se murmure qu&rsq
 
 L&rsquo;adresse : 100 Rue des Boeufs 13100 Aix-en-Provence
 
-<!-- iframe plugin v.4.3 wordpress.org/plugins/iframe/ -->
+![Carte vers le lieu](/files/2019-02-10-meetup-du-20-fevrier-2019-au-carrefour-de-linnovation/map.png)
 
 ## L&rsquo;orateur
-
-<div id="attachment_846" style="width: 310px" class="wp-caption alignright">
-  <a href="https://aix-marseille.afup.org/files/2019/02/d4e0dc0be265de26e3f356271d1740e3.jpg"><img class="size-medium wp-image-846 alignright" src="https://aix-marseille.afup.org/files/2019/02/d4e0dc0be265de26e3f356271d1740e3-300x200.jpg" alt="" width="300" height="200" srcset="https://aix-marseille.afup.org/files/2019/02/d4e0dc0be265de26e3f356271d1740e3-300x200.jpg 300w, https://aix-marseille.afup.org/files/2019/02/d4e0dc0be265de26e3f356271d1740e3-768x512.jpg 768w, https://aix-marseille.afup.org/files/2019/02/d4e0dc0be265de26e3f356271d1740e3-1024x683.jpg 1024w, https://aix-marseille.afup.org/files/2019/02/d4e0dc0be265de26e3f356271d1740e3-450x300.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
-  <p class="wp-caption-text">
-    © Julien Pauli &#8211; Forum PHP 2018
-  </p>
-</div>
 
 Et nous sommes ravi d’accueillir un grand nom de la scène PHP francophone :  
 **<a href="https://twitter.com/faguo" target="_blank" rel="noopener noreferrer">Damien Seguy</a>**.
 
+{% include image_with_caption.html url="/files/2019/02/d4e0dc0be265de26e3f356271d1740e3.jpg" description="© Julien Pauli &#8211; Forum PHP 2018" %}
+
 Multi conférencier aux évènements de l&rsquo;Afup depuis <a href="https://afup.org/pages/forumphp2005/conferenciers.php?#dseguy" target="_blank" rel="noopener noreferrer">un bon paquet d&rsquo;années</a> dont il est l&rsquo;un des membres fondateurs en 2001&#8230;
 
-<div style="width: 310px" class="wp-caption alignleft">
-  <img class="size-medium alignleft" src="https://pbs.twimg.com/media/DyqZCExWsAEm7E0.jpg:large" width="300" height="auto" />
-  
-  <p class="wp-caption-text">
-    Une photo de famille de Damien
-  </p>
-</div>
+
+{% include image_with_caption.html url="https://pbs.twimg.com/media/DyqZCExWsAEm7E0.jpg:large" description="Une photo de famille de Damien" %}
 
 Il est entre autre également, un des auteurs du best seller : Sécurité PHP5 et MySQL. Et l&rsquo;instigateur de votre peluche préférée&#8230;
 
