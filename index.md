@@ -15,7 +15,32 @@ has_left_logo: true
   text-decoration: none;
   font-family: Arimo, "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
+  
+  .link-to-post {
+    padding: 1em;
+    font-family: Roboto;
+  }
+  
+  .link-to-post .link-to-post__next {
+    font-size:1em;
+  }
+  
+  .post-links {
+  margin-bottom: 2em;
+  }
   </style>
+
+<div class="post-links">
+<a class="link-to-post" href="" style="margin:10px">
+  <span class="link-to-post__next"><i class="fas fa-bullhorn"></i>&nbsp;Appel à speakers</span>
+</a>
+<a class="link-to-post" href=""  style="margin:10px">
+  <span class="link-to-post__next"><i class="fas fa-landmark"></i>&nbsp;Historique</span>
+</a>
+<a class="link-to-post" href=""  style="margin:10px">
+  <span class="link-to-post__next"><i class="fas fa-envelope"></i>&nbsp;Newsletter</span>
+</a>
+</div>
 
   <h2 class="category-key">Dernier article</h2>
 
