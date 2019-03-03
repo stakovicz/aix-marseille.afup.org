@@ -10,8 +10,8 @@ categories:
   - Conférence
 format: quote
 ---
-&#8211; Laravel par Didier Sampaolo : <https://www.slideshare.net/secret/eRHQozTgB99xS2>
 
-&#8211; Expression Language par Renaud Lerognon : <http://expression-language.renauddouze.fr/#/en_slides>
+* Laravel par Didier Sampaolo : [voir les slides](https://www.slideshare.net/secret/eRHQozTgB99xS2).
+* Expression Language par Renaud Lerognon : [voir les slides](http://expression-language.renauddouze.fr/#/en_slides).
 
-Vous pouvez aussi revoir la conférence diffusée sur Periscope ici : <https://www.pscp.tv/w/1ypJdlqYjjgJW>
+Vous pouvez aussi revoir la conférence [diffusée sur Periscope](https://www.pscp.tv/w/1ypJdlqYjjgJW).

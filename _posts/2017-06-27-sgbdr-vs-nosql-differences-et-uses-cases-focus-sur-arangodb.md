@@ -10,11 +10,7 @@ image: /files/2017/06/AAEAAQAAAAAAAAunAAAAJGNjYWQ2YmNiLWRlMDYtNDBlOC1iZjM4LWNhZD
 categories:
   - Conférence
 ---
-[<img class=" wp-image-121 alignleft" src="https://aix-marseille.afup.org/files/2017/06/AAEAAQAAAAAAAAunAAAAJGNjYWQ2YmNiLWRlMDYtNDBlOC1iZjM4LWNhZDRjYzA4MzJlZA.jpg" alt="" width="126" height="126" srcset="https://aix-marseille.afup.org/files/2017/06/AAEAAQAAAAAAAAunAAAAJGNjYWQ2YmNiLWRlMDYtNDBlOC1iZjM4LWNhZDRjYzA4MzJlZA.jpg 200w, https://aix-marseille.afup.org/files/2017/06/AAEAAQAAAAAAAAunAAAAJGNjYWQ2YmNiLWRlMDYtNDBlOC1iZjM4LWNhZDRjYzA4MzJlZA-150x150.jpg 150w" sizes="(max-width: 126px) 100vw, 126px" />](https://aix-marseille.afup.org/files/2017/06/AAEAAQAAAAAAAAunAAAAJGNjYWQ2YmNiLWRlMDYtNDBlOC1iZjM4LWNhZDRjYzA4MzJlZA.jpg)Venez découvrir, avec l&rsquo;incontournable Eric Dykstein, les différences et uses cases entre les SGBDR et les moteurs NOSQL. Un focus particulier sera fait également sur ArangoDB, une solution NOSQL multi-modèle.
-
-&nbsp;
-
-&nbsp;
+![Photo speaker](/files/2017/06/AAEAAQAAAAAAAAunAAAAJGNjYWQ2YmNiLWRlMDYtNDBlOC1iZjM4LWNhZDRjYzA4MzJlZA.jpg)
 
 La société éditrice de ArangoDB nous a envoyé pour l&rsquo;occasion quelques goodies qui seront distribués gratuitement lors de ce MeetUp (T-Shirts et Stickers).
 

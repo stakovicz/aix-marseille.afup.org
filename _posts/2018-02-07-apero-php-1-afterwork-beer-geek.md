@@ -29,6 +29,6 @@ Le calendrier des évènements sur février / mars nous laisse peu de possibilit
 
 A mardi prochain !
 
-<a href="https://www.meetup.com/fr-FR/Marseille-PHP-User-Group/events/247542875/" target="_blank" rel="noopener noreferrer">https://www.meetup.com/fr-FR/Marseille-PHP-User-Group/events/247542875/</a>
-
-&nbsp;
+{% include widgets/meetup.html
+   url="https://www.meetup.com/fr-FR/Marseille-PHP-User-Group/events/247542875/"
+%}

@@ -17,19 +17,11 @@ Ensuite, nous nous sommes rapprochés de [Jean-Jacques Peruzzi](https://www.lin
 
 Et donc bien évidement, nous parlerons de Symfony. Le Symfony Live vient tout juste de fermer ses portes et quelques annonces ont été faites sur le futur du framework.
 
-[<img class=" wp-image-109 alignleft" src="https://aix-marseille.afup.org/files/2017/04/profil_alex.jpg" alt="" width="162" height="162" srcset="https://aix-marseille.afup.org/files/2017/04/profil_alex.jpg 300w, https://aix-marseille.afup.org/files/2017/04/profil_alex-150x150.jpg 150w" sizes="(max-width: 162px) 100vw, 162px" />](https://aix-marseille.afup.org/files/2017/04/profil_alex.jpg)[Alexandre Rock Ancelet](https://twitter.com/pierstoval), formateur chez SensioLabs, nous fera un rapide retour sur l&rsquo;état actuel de Symfony et de son avenir avec Symfony 4 / Symfony Flex.
+![Photo speaker](/files/2017/04/profil_alex.jpg)
 
-&nbsp;
+[Alexandre Rock Ancelet](https://twitter.com/pierstoval), formateur chez SensioLabs, nous fera un rapide retour sur l&rsquo;état actuel de Symfony et de son avenir avec Symfony 4 / Symfony Flex.
 
-&nbsp;
-
-&nbsp;
-
-[<img class=" wp-image-113 alignright" src="https://aix-marseille.afup.org/files/2017/04/profil_macherey-300x300.jpg" alt="" width="140" height="140" srcset="https://aix-marseille.afup.org/files/2017/04/profil_macherey-300x300.jpg 300w, https://aix-marseille.afup.org/files/2017/04/profil_macherey-150x150.jpg 150w, https://aix-marseille.afup.org/files/2017/04/profil_macherey.jpg 400w" sizes="(max-width: 140px) 100vw, 140px" />](https://aix-marseille.afup.org/files/2017/04/profil_macherey.jpg)Ensuite, Nicolas Macherey, Président de WakeOnWeb, nous fera une présentation sur la validation des contrats d’interface au format OpenAPI.
-
-&nbsp;
-
-&nbsp;
+![Photo speaker](/files/2017/04/profil_macherey-300x300.jpg)
 
 Comme lors de la dernière rencontre, les places sont limitées et même si nous ferons ce qui est possible pour faire rentrer tout le monde, je vous demande de vous inscrire seulement si vous êtes certain•e de venir. N&rsquo;hésitez pas non plus à vous mettre en liste d&rsquo;attente.
 
@@ -37,4 +29,6 @@ Pour ce qui est de la nourriture et du soft, ça sera sponsorisé par notre hôt
 
 A très bientôt !
 
-[Inscription](https://www.meetup.com/fr-FR/Marseille-PHP-User-Group/events/239154248/)
+{% include widgets/meetup.html
+   url="https://www.meetup.com/fr-FR/Marseille-PHP-User-Group/events/239154248/"
+%}
