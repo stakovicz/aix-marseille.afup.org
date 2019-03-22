@@ -7,6 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: AFUP_AixMrs
 meetup_url: "https://www.meetup.com/fr-FR/afup-aix-marseille-php/"
 
+permalink: /posts/:title
 
 # Build settings
 markdown: kramdown
