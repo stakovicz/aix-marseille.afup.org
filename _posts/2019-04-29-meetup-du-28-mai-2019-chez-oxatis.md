@@ -14,6 +14,8 @@ On l'avait promis, le voici, enfin un meetup AFUP sur Marseille ! Grosse pressio
 
 Mais on oublie pas nos amis aixois et autres, et le meetup se tiendra dans le nord de Marseille proche autoroute. (Sous entendu, pas besoin de traverser Marseille, donc pas d'excuses ;) )
 
+A noter que les élections du bureau local seront aussi au programme !
+
 ## Le lieu
 
 ![](/files/2019-05-28/Oxatis_meetup.png)
@@ -49,6 +51,15 @@ PHP et Mysql c'est un peu une histoire d'amour qui dure depuis des années. Et m
 
 Maxime est également hyper actif dans la communauté du libre de la région. Mais aussi fondateur et dirigeant de [Itika](https://www.itika.net/).
 
+## Les élections
+
+Pour rappel, le bureau local est élu pour un an de Juin à Juin. Il est donc temps de procéder à des élections.
+
+Rappel des règles :
+
+> Chaque liste sera portée à minima par un·e coordinateur·trice et un·e modérateur·trice et le vote se fait pour une liste complète (et non pour des personnes individuelles). Chaque antenne doit donc organiser un vote pour lequel chaque personne présente à la soirée d'élection pourra participer (sans forcément être membre AFUP), le vote se déroulant à main levée et au suffrage direct à un tour.
+
+Il nous est demandé de communiquer les listes avant le 25 mai 2019. Donc merci de revenir vers nous avnt cette date si vous souhaitez proposer une liste à l'élection !
 
 ## Inscription
 
