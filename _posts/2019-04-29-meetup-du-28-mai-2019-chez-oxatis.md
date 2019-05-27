@@ -33,7 +33,7 @@ Le parking sera à disposition pour se garer et si la météo est avec nous ce j
 L'accès en détails :
 ![](https://www.oxatis.com/Files/13825/Img/10/Plan-accces-Oxatis-Marseille.jpg)
 
-Le batiment est fermé par un portail bleu. On communiquera plus tard sur le moyen de rentrer.
+Le batiment est fermé par un portail bleu qui sera ouvert pour l'occasion. Si malgré tout celui-ci se retrouve fermé, vous aurez accès à un interphone.
 
 ## Les orateurs
 
