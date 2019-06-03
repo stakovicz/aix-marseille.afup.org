@@ -19,8 +19,10 @@ On peut remercier l'inside man de chez Oxatis, [Nicolas Natalini aka Nikos](http
 
 <!--more-->
 
+## Elections
 En plus des 2 présentations, c'était jour de vote aussi ! Et la liste unique du bureau actuelle a été reconduite avec une écrasante majorité, il faudra donc nous supporter encore 1 an ;)
 
+## PHP5 : Endgame
 Romain a lancé ensuite le bal avec PHP5: Endgame
 ![](/files/2019-05-28/endgame.jpg)
 
@@ -38,8 +40,10 @@ Vous pouvez aussi le revoir comme si vous y étiez grâce à Nathanaël :
    id="k95GpFNDU8c"
 %}
 
+## Aouf
 Avant une petite pause, Gregory Colpart a pris la parole pour nous présenter son projet Aouf, une plateforme d'entre aide locale lancée suite au drame de la rue d'aubagne du 5 novembre 2018. Voici [les slides](https://aouf.fr/afup/) ainsi que le [code dispo sur github](https://github.com/aouf/aouf-lowtech/). Si vous êtes intéréssés pour participer Greg a déjà rempli [une todo-list](https://github.com/aouf/aouf-lowtech/blob/master/TODO).
 
+## MariaDB/Mysql : Optimize Prime
 Ensuite c'est Maxime qui a pris le relais avec une conférence plus technique sur un monde trop méconnu des développeurs, l'optimisation du moteur de base de données.
 ![](/files/2019-05-28/optimize-prime.jpg)
 
@@ -53,6 +57,7 @@ La vidéo est aussi disponible:
    id="qhJsBhW-Jy4"
 %}
 
+## Debrief
 Ensuite le buffet préparé par Mina kouk a été ouvert et la soirée a pu continuer jusqu'à presque minuit.
 ![](/files/2019-05-28/mina2.jpg)
 
