@@ -19,6 +19,15 @@ body.index {
       text-align: right;
       float: right;
     }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1em auto;
+      padding: .2em;
+      background-color: #fff;
+    }
   }
 
   .previous-articles {
