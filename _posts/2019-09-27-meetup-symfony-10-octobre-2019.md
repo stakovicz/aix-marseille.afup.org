@@ -23,7 +23,7 @@ L'entrée est bien évidemment gratuite mais soumise à contrôle, il est donc i
 
 Comme il est devenu de coutume, un apéro vous sera offert sur place et on peut remercier dès à présent, [Recrut-info](https://www.recrut-info.com/), qui le sponsorire !
 
-![](/2019-09-27/thecamp.jpg)
+![](/files/2019-09-27/thecamp.jpg)
 
 ## Programme
 Au programme, qui mieux placé pour parler de Symfony qu'un membre de la Core Team (à temps plein en plus) ?
