@@ -9,22 +9,22 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-Quelle rentrée ! La météo était avec nous mais surtout la communauté ! Nous avons eu le plaisir d'accueillir près de 150 personnes pour ce meetup Symfony organisé par Jean-Jacques avec l'appui de tout notre petite bande.
+Quelle rentrée ! La météo était avec nous mais surtout la communauté ! Nous avons eu le plaisir d'accueillir près de 150 personnes pour ce meetup Symfony organisé par [Jean-Jacques Peruzzi](https://fr.linkedin.com/in/jjperuzzi) avec l'appui de tout notre petite bande de l'Afup.
 
-Vous n'avez pas vu venir ? Un petit résumé pour vous rappeler que la prochaine fois faut pas louper ça.
+Vous n'avez pas vu venir ? Un petit résumé pour vous rappeler que la prochaine fois il ne faut pas louper ça.
 ![](/files/2019-10-14/IMG_20191010_200519.jpg)
 <!--more-->
-Histoire de s'y retrouver parmi tous ces visages, Maxime nous avait concocté des badges très pro.
+Histoire de s'y retrouver parmi tous ces visages, [Maxime Longuet](https://twitter.com/mtcocktail) nous avait concocté des badges très pro.
 
-En coulisse, Nicolas et Nathanaël étaient à la régie pour assurer la captation vidéo en direct, sous l'oeil préoccupé du maître de cérémonie Jean-Jacques.
+En coulisse, Nicolas Sias et [Nathanaël Mariani](https://twitter.com/nathmariani) étaient à la régie pour assurer la captation vidéo en direct, sous l'oeil préoccupé du maître de cérémonie Jean-Jacques.
 
 ![](/files/2019-10-14/IMG_20191010_200455.jpg)
 
-En ouverture, comme le veut la coutume, les sponsors et partenaires ont pris la parole : thecamp pour nous avoir une nouvelle fois très bien accueilli, Éric de Recrut-info qui a permis à tout le monde de grignoter après les présentations et l'Afup pour le soutien logistique.
+En ouverture, comme le veut la coutume, les sponsors et partenaires ont pris la parole : thecamp pour nous avoir une nouvelle fois très bien accueilli, Éric Dykstein de [Recrut-info](https://www.recrut-info.com/) qui a permis à tout le monde de grignoter après les présentations et l'Afup pour le soutien logistique.
 
 ## Les conférences
 
-Ensuite, Timothée Barray a présenté les bases d'un monolithe modulaire. Pour ceux qui veulent voir ou revoir :
+Ensuite, [Timothée Barray](https://twitter.com/timbarray) a présenté les bases d'un monolithe modulaire. Pour ceux qui veulent voir ou revoir :
 
 {% include widgets/slides.com.html
    url="//slides.com/tyx/base-d-un-monolithe-modulaire/embed"
@@ -35,7 +35,7 @@ Ensuite, Timothée Barray a présenté les bases d'un monolithe modulaire. Pour 
    id="0VoJklzyZgw"
 %}
 
-Et c'est Nicolas Grekas qui nous a fait l'honneur de sa présence pour détailler le tout récent composant HttpClient. Idem les slides et la vidéo ci-dessous :
+Et c'est [Nicolas Grekas](https://twitter.com/nicolasgrekas) qui nous a fait l'honneur de sa présence pour détailler le tout récent composant HttpClient. Idem les slides et la vidéo ci-dessous :
 
 {% include widgets/speakerdeck.html
    id="fd6a2f1fa93e41d592d803e0239acd80"
@@ -52,9 +52,13 @@ Et c'est Nicolas Grekas qui nous a fait l'honneur de sa présence pour détaille
 
 Après sa conférence, Nicolas s'est prêté au jeu des questions sur Symfony et Syfmony 5, nous précisant que Symfony 5 ne sera pas une révolution !
 
-Puis, Jean-Jacques nous avait préparé une petite surprise avec un quizz issu des présentations du soir. Quentin Schuler, Can Omur et Karl ont raflé les 3 premières places et sont repartis avec des goodies.
+Puis, Jean-Jacques nous avait préparé une petite surprise avec un quizz issu des présentations du soir. Quentin Schuler, Can Omur et Karl ont raflé les 3 premières places et sont repartis avec :
 
-Après un petit tour sur le tableau de réseautage mis à disposition, on pouvait terminer cette soirée en profitant du cadre et d'un apéro.
+  * une entrée au DevOps D Day - offerte par infrabuilder.com
+  * une licence PhpStorm - offerte par l'Afup
+  * un T-shirt Symfony - offert par Symfony
+
+Après un petit tour sur le tableau de réseautage mis à disposition, on pouvait terminer cette soirée en profitant du cadre et de l'apéro offert par Eric de Recrut-info.
 
 ![](/files/2019-10-14/IMG_20191010_201939.jpg)
 
